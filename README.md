@@ -1,4 +1,6 @@
 # Calculator Web App 🧮
+## Live Demo
+[Click here to view](https://tanvishroy.github.io/calculator/)
 
 ## Overview
 This is a simple and responsive calculator web application built using HTML, CSS, and JavaScript. It performs basic arithmetic operations with a clean user interface.
